@@ -1,6 +1,6 @@
 **Thanel Richard Angwarmasse**  
 **Informatics Engineering Student**  
-Email: [angwarmassethanel@gmail.com] | Phone: [082146587160] | Location: Jakarta, Indonesia  
+Email: angwarmassethanel@gmail.com | Phone: 082146587160 | Location: Jakarta, Indonesia  
 
 ---
 
