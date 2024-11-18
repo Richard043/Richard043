@@ -68,6 +68,4 @@ A passionate Informatics Engineering undergraduate with hands-on experience in s
 - Software Development  
 - Environmental Conservation  
 
----
 
-Let me know if you want any adjustments or additions!
