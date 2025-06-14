@@ -1,5 +1,7 @@
 **Thanel Richard Angwarmasse**  
-**Informatics Engineering Student**  
+**Informatics Engineering Student**
+**Faculty of Computer Science**
+**Mercu Buana University**
 Email: angwarmassethanel@gmail.com | Phone: 082146587160 | Location: Jakarta, Indonesia  
 
 ---
@@ -28,7 +30,8 @@ A passionate Informatics Engineering undergraduate with hands-on experience in s
 *Mercu Buana University, Jakarta | 2023 - Present*  
 - Fundraising Committee for English Event 2024.  
 - PIC of Security Committee for MBEC Opening Registration.  
-- Dual-role contributor for LTP 2025: Equipment and Field Committees.  
+- Dual-role contributor for LTP 2025: Equipment and Field Committees.
+- PIC of Technician Committee for English Event 2025.  
 
 ---
 
