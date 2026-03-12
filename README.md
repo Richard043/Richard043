@@ -54,7 +54,7 @@ A passionate Informatics Engineering graduatee with hands-on experience in softw
 ---
 
 ### **Technical Skills**  
-- **Development:** Discord Bot Development, Android App Development, Web Development  
+- **Development:** Android App Development, Windows App Development, Web Development  
 - **Languages:** Python, C++, JavaScript, HTML, CSS, Node.js  
 
 ---
