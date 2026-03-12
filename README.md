@@ -1,14 +1,12 @@
 **Thanel Richard Angwarmasse**  
-**Informatics Engineering Student**
-**Faculty of Computer Science**
-**Mercu Buana University**
+
 
 Email: angwarmassethanel@gmail.com | Phone: 082146587160 | Location: Jakarta, Indonesia  
 
 ---
 
 ### **Professional Summary**  
-A passionate Informatics Engineering undergraduate with hands-on experience in software development, including web, mobile, and Discord bot development. Skilled in various programming languages and committed to delivering impactful projects. Active in multiple organizations, gaining leadership and team collaboration experience.
+A passionate Informatics Engineering graduatee with hands-on experience in software development, including web, mobile softwares, and windows softwares. Skilled in various programming languages and committed to delivering impactful projects. Active in multiple organizations, gaining leadership and team collaboration experience.
 
 ---
 
@@ -40,7 +38,7 @@ A passionate Informatics Engineering undergraduate with hands-on experience in s
 
 **Mercu Buana University**  
 *Meruya, Jakarta | 2022 - Present*  
-- Undergraduate in Informatics Engineering.  
+- Graduate, Informatics Engineering.  
 - Active in organizations and projects, enhancing skills in software and web development.  
 
 **Lentera Harapan High School**  
